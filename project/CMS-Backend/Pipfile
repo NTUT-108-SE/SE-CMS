@@ -1,0 +1,32 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+yapf = "*"
+flake8 = "*"
+pytest = "*"
+pytest-cov = "*"
+pytest-mock = "*"
+pytest-asyncio = "*"
+pytest-trio = "*"
+pytest-tornasync = "*"
+mongomock = "*"
+pytest-flask = "*"
+
+[packages]
+flask = "*"
+python-dotenv = "*"
+flask-mail = "*"
+flask-login = "*"
+mongoengine = "*"
+flask-graphql = "*"
+graphene = "*"
+graphene-mongo = "*"
+py-bcrypt = "*"
+requests = "*"
+
+[requires]
+python_version = "3.6.8"
