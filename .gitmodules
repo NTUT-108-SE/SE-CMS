@@ -1,6 +1,0 @@
-[submodule "project/CMS-Frontend"]
-	path = project/CMS-Frontend
-	url = https://github.com/NTUT-108-SE/CMS-Frontend
-[submodule "project/CMS-Backend"]
-	path = project/CMS-Backend
-	url = https://github.com/NTUT-108-SE/CMS-Backend
